@@ -38,7 +38,7 @@ Happy Customer Bank is a mid-sized private bank that deals in all kinds of banki
 
 
 # Evaluation Metrics:
-ROC-AUC for class1.
+ROC-AUC value for class1.
 
 # Approach:
 ## EDA & Preprocessing
